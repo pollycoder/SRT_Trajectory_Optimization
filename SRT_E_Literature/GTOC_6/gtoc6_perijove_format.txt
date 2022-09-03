@@ -1,0 +1,11 @@
+# GTOC6 Perijove File format
+#
+# Perijove states (Jovicentric trajectory of spacecraft)
+#
+# Numbers to 16 significant digits
+#
+# ALL QUANTITIES HAVE TO BE GIVEN IN THE SAME FRAME AS THE SATELLITE ORBITAL ELEMENTS IN TABLE 4 OF THE PROBLEM STATEMENT (happens to be Jupiter equator and equinox of MJD=58849.0)
+#
+# Time of Perijove (MJD)           x (km)                y (km)             z (km)                vx (km/s)             vy (km/s)             vz (km/s)         osculating R_a (km)
+    ....................  .....................  ....................  .................... ..................... .....................  ....................  ....................  ....................  ....................  ....................  ....................  ....................
+    ....................  .....................  ....................  .................... ..................... .....................  ....................  ....................  ....................  ....................  ....................  ....................  ....................

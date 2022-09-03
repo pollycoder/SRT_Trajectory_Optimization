@@ -1,0 +1,11 @@
+# GTOC6 Flyby File format
+#
+# Flyby Characteristics
+#
+# Numbers to 16 significant digits
+#
+# ALL QUANTITIES HAVE TO BE GIVEN IN THE SATELLITE'S BODY-FIXED FRAME AT THE TIME OF FLYBY
+#
+# Time of Flyby (MJD)     SATELLITE NAME        VINF-IN (b1) (km/s)   VINF-IN (b2) (km/s)   VINF-IN (b3) km/s)   VINF-OUT (b1) (km/s)  VINF-OUT (b2) (km/s)  VINF-OUT (b3) (km/s)      ALTITUDE (km)        FACE NUMBER           FACE VALUE          MASS PRE-FLYBY (kg)  MASS POST-FLYBY (kg)
+  ....................  .....................  ....................  .................... ..................... .....................  ....................  ....................  ....................  ....................  ....................  ....................  ....................
+  ....................  .....................  ....................  .................... ..................... .....................  ....................  ....................  ....................  ....................  ....................  ....................  ....................
